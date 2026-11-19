@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar">#1A1E26</color>
+    <color name="accent">#7DA6FF</color>
+    <color name="bg">#0F1217</color>
+    <color name="surface">#1A1E26</color>
+    <color name="text">#E8EAEE</color>
+    <color name="text2">#A0A7B4</color>
+    <color name="divider">#2A2F3A</color>
+    <color name="pdf">#FF6B5E</color>
+    <color name="excel">#3CC27A</color>
+    <color name="pdf_bg">#3A1F1D</color>
+    <color name="excel_bg">#16301F</color>
+    <color name="pill">#CC000000</color>
+    <color name="button">#2F5FC4</color>
+</resources>

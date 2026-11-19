@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyDocs</string>
+    <string name="open_pdf">EasyDocs PDF</string>
+    <string name="open_excel">EasyDocs Excel</string>
+    <string name="pdf_documents">PDF</string>
+    <string name="pdf_hint">Open a PDF document</string>
+    <string name="excel_documents">Excel</string>
+    <string name="excel_hint">Open XLSX or XLS</string>
+    <string name="browse_files">Browse files</string>
+    <string name="recent">Recent documents</string>
+    <string name="clear">Clear</string>
+    <string name="no_recent">Documents you open will appear here.\nEverything stays on your phone — nothing is uploaded.</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="go_to_page">Go to page</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system">System default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="about">About</string>
+    <string name="about_text">EasyDocs is an offline PDF and Excel viewer.\n\n• No internet permission\n• No ads, tracking or analytics\n• No accounts\n• Documents never leave your phone</string>
+    <string name="page_of">Page %1$d of %2$d</string>
+    <string name="page_number_hint">Page (1–%1$d)</string>
+    <string name="go">Go</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove from recent</string>
+    <string name="loading">Opening…</string>
+    <string name="err_no_file">No document was provided.</string>
+    <string name="err_unsupported">This file type is not supported. EasyDocs opens PDF, XLSX and XLS files.</string>
+    <string name="err_access">Can\'t access this file any more. Open it again from where you found it.</string>
+    <string name="err_pdf_password">This PDF is password-protected and can\'t be opened.</string>
+    <string name="err_pdf_corrupt">This PDF can\'t be opened. It may be damaged.</string>
+    <string name="err_no_webview">Excel viewing needs Android System WebView, which is missing or disabled on this phone.</string>
+    <string name="err_out_of_memory">This document is too large to open on this phone.</string>
+    <string name="no_picker">No file browser is available on this phone.</string>
+</resources>

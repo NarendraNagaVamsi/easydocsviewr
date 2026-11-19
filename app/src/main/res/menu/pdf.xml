@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/zoom_out" android:icon="@drawable/ic_zoom_out" android:title="@string/zoom_out" android:showAsAction="ifRoom" />
+    <item android:id="@+id/zoom_in" android:icon="@drawable/ic_zoom_in" android:title="@string/zoom_in" android:showAsAction="ifRoom" />
+    <item android:id="@+id/go_to" android:title="@string/go_to_page" android:showAsAction="never" />
+</menu>

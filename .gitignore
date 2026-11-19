@@ -1,0 +1,29 @@
+# Gradle / build output
+.gradle/
+build/
+app/build/
+.kotlin/
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Machine-specific
+local.properties
+
+# Signing: never commit keys or passwords
+keystore.properties
+keystore/
+*.jks
+*.keystore
+
+# Generated packages (attach APKs to GitHub Releases instead)
+release/
+*.apk
+*.aab
+
+# IDE / tooling
+.idea/
+*.iml
+.vscode/
+.claude/settings.local.json
+.DS_Store
